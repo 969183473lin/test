@@ -1,0 +1,1 @@
+在真正运行项目时，masks.zip与picture.zip解压后，需要将masks文件夹与picture文件夹都放入graduateproject文件夹中
